@@ -1,0 +1,41 @@
+#title{
+color:white;
+}
+#description{
+font-style: italic;
+}
+#survery-form{
+
+}
+#name{
+
+}
+#email{
+
+}
+#input{
+
+}
+#name-label{
+
+}
+#email-label{
+
+}
+#number-label{
+
+}
+#dropdown{
+
+}
+#submit{
+
+}
+body{
+  background-color:blue;
+  text-align: left;
+}
+form{
+  background-color:yellow;
+
+}
